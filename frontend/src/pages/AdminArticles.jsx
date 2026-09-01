@@ -1,0 +1,1 @@
+<Route path="/admin/articles" element={<PrivateRoute><AdminArticles /></PrivateRoute>} />
